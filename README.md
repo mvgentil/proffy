@@ -1,7 +1,16 @@
 # Proffy
-<img src="/web/src/assets/images/logo.svg" alt="Proffy Logo" style="color: #000000"/>
+<img 
+  src="/web/src/assets/images/logo.svg" 
+  alt="Proffy Logo" 
+  style="
+    color:  #000000;
+    display:  block;
+    margin-left:  auto;
+    margin-right: auto;
+    width: 50%;"
+  />
 
-<img src="/mobile/src/assets/images/landing.png"/>
+<img src="/mobile/src/assets/images/landing.png" style="position:center/>
 
 #### EN - Teaching platform made with React.js and React Native using Typescript during the NLW (Next Level Week) #02 🚀
 
