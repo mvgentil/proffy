@@ -9,9 +9,9 @@
     adjustContent: center;"
 />
 
-##### EN - Teaching platform made with React.js and React Native using Typescript during the NLW (Next Level Week) #02 🚀
+##### EN - Teaching platform made with React.js and React Native using Typescript during the NLW (Next Level Week) #02 by RocketSeat 🚀
 
-##### PT - Plataforma de ensino construída com React.js e React Native utilizando Typescript durante a NLW (Next Level Week) #02 🚀
+##### PT - Plataforma de ensino construída com React.js e React Native utilizando Typescript durante a NLW (Next Level Week) #02 by RocketSeat 🚀
 
 
 ##  ✅ Access the repositories
@@ -89,4 +89,4 @@ $ npm start
 ## 📕 License
 
 This project is under the [MIT License](./LICENSE).<br>
-Created whit ❤ por [Matheus Gentil](https://github.com/mvgenil)
+Created whit ❤ by [Matheus Gentil](https://github.com/mvgenil)
